@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(190, 92, 81);
+    font-family: rosorivo;
+    color: white;
+}
+.division{
+    background-color: rgb(228, 142, 126);
+    margin-top: 100px;
+}
+h1{
+    color: rgb(255, 255, 255);
+    font-size: xx-large;
+}
+img{
+    height: 200px;
+    width: 200px;
+    margin-left: 580px;
+    margin-top: 10px;
+}
+button{
+    color: white;
+    background-color: rgb(95, 55, 55);
+    margin-left: 100px;
+    width: 80px;
+    height: 25px;
+}
+.main{
+    margin-left: 500px;
+    margin-right: 100px;
+}
+.hr{
+    width: 80px;
+    height: 80px;
+}
+.input{
+    margin-left: 20px;
+    color: black;
+}
+.attempt{
+    margin-left: 117px;
+    margin-top: -29px;
+}
